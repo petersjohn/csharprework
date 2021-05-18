@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xbYMIML0zmscWvZSspDCSbyQaP91oDUf4jrhclOjKVxgZjJdp6NIzljoyP0Mhx1rYXezfKTxeM9htZT7Dp8Dww==",
+  "dgSpecHash": "Qwy2AQXghXPnYUKRa4+LnQMzkFPSXIjtgsOdf4runXOzJkAhgOfA1BTmAtocWWd+yEgCZ6obpOR675PjIPVuyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\Assignments\\DotNetProjects\\CSharpPrework\\01_HelloWorld\\01_HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\01_HelloWorld\\01_HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

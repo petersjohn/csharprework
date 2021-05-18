@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\01_HelloWorld\\01_HelloWorld.csproj": {}
+    "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\03_Types_Challenge\\03_Types_Challenge\\03_Types_Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\01_HelloWorld\\01_HelloWorld.csproj": {
+    "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\03_Types_Challenge\\03_Types_Challenge\\03_Types_Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\01_HelloWorld\\01_HelloWorld.csproj",
-        "projectName": "01_HelloWorld",
-        "projectPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\01_HelloWorld\\01_HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\03_Types_Challenge\\03_Types_Challenge\\03_Types_Challenge.csproj",
+        "projectName": "03_Types_Challenge",
+        "projectPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\03_Types_Challenge\\03_Types_Challenge\\03_Types_Challenge.csproj",
         "packagesPath": "C:\\Users\\johnp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\01_HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\03_Types_Challenge\\03_Types_Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

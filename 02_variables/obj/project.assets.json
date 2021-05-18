@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\Assignments\\DotNetProjects\\CSharpPrework\\02_variables\\02_variables.csproj",
+      "projectUniqueName": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\02_variables\\02_variables.csproj",
       "projectName": "02_variables",
-      "projectPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\Assignments\\DotNetProjects\\CSharpPrework\\02_variables\\02_variables.csproj",
+      "projectPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\02_variables\\02_variables.csproj",
       "packagesPath": "C:\\Users\\johnp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\Assignments\\DotNetProjects\\CSharpPrework\\02_variables\\obj\\",
+      "outputPath": "C:\\Users\\johnp\\Documents\\ElevenFiftyProjects\\DotNetProjects\\csharprework\\02_variables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

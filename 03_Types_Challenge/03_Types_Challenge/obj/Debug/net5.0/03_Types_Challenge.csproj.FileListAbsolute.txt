@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\03_Types_Challenge.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\03_Types_Challenge.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\03_Types_Challenge.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\03_Types_Challenge.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\03_Types_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\ref\03_Types_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\bin\Debug\net5.0\03_Types_Challenge.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.csprojAssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\ref\03_Types_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\03_Types_Challenge\03_Types_Challenge\obj\Debug\net5.0\03_Types_Challenge.genruntimeconfig.cache
