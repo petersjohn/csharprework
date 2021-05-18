@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\03_Types.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\03_Types.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\03_Types.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\03_Types.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\03_Types.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\ref\03_Types.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\bin\Debug\net5.0\03_Types.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.csprojAssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\ref\03_Types.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\Assignments\DotNetProjects\CSharpPrework\03_Types\obj\Debug\net5.0\03_Types.genruntimeconfig.cache
