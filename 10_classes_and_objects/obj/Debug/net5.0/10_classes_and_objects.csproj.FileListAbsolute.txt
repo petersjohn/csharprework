@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\10_classes_and_objects.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\10_classes_and_objects.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\10_classes_and_objects.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\10_classes_and_objects.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\10_classes_and_objects.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\ref\10_classes_and_objects.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\bin\Debug\net5.0\10_classes_and_objects.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.csprojAssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\ref\10_classes_and_objects.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\10_classes_and_objects\obj\Debug\net5.0\10_classes_and_objects.genruntimeconfig.cache
