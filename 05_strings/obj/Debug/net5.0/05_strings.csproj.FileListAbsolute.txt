@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\05_strings.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\05_strings.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\05_strings.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\05_strings.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\05_strings.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\ref\05_strings.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\bin\Debug\net5.0\05_strings.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.csprojAssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\ref\05_strings.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\05_strings\obj\Debug\net5.0\05_strings.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\06_booleans.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\06_booleans.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\06_booleans.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\06_booleans.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\06_booleans.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\ref\06_booleans.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\bin\Debug\net5.0\06_booleans.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\ref\06_booleans.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_booleans\obj\Debug\net5.0\06_booleans.genruntimeconfig.cache

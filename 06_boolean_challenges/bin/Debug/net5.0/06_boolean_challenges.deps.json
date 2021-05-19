@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "06_boolean_challenges/1.0.0": {
+        "runtime": {
+          "06_boolean_challenges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06_boolean_challenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

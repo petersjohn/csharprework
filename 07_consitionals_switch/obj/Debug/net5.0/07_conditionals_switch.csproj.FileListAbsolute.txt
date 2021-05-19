@@ -1,0 +1,15 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\07_conditionals_switch.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\07_conditionals_switch.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\07_conditionals_switch.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\07_conditionals_switch.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\07_conditionals_switch.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\ref\07_conditionals_switch.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\bin\Debug\net5.0\07_conditionals_switch.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\ref\07_conditionals_switch.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_consitionals_switch\obj\Debug\net5.0\07_conditionals_switch.genruntimeconfig.cache
