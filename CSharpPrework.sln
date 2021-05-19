@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_conditionals_switch", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_conditionals_if_else", "07_conditionals_if_else\07_conditionals_if_else.csproj", "{B75FA0D9-06FD-4FA6-A4EE-AC3409E3DD4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_conditionals_ternary_expressions", "07_conditionals_ternary_expressions\07_conditionals_ternary_expressions.csproj", "{EA6C4410-A41A-4B49-AFEB-B63701A741DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B75FA0D9-06FD-4FA6-A4EE-AC3409E3DD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75FA0D9-06FD-4FA6-A4EE-AC3409E3DD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75FA0D9-06FD-4FA6-A4EE-AC3409E3DD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6C4410-A41A-4B49-AFEB-B63701A741DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6C4410-A41A-4B49-AFEB-B63701A741DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6C4410-A41A-4B49-AFEB-B63701A741DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6C4410-A41A-4B49-AFEB-B63701A741DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
