@@ -1,0 +1,15 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\09_loops.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\09_loops.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\09_loops.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\09_loops.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\09_loops.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\ref\09_loops.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\bin\Debug\net5.0\09_loops.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\ref\09_loops.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\09_loops\obj\Debug\net5.0\09_loops.genruntimeconfig.cache

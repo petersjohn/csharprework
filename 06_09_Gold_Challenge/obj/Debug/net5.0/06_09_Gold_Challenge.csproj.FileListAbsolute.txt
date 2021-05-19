@@ -1,0 +1,15 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\06_09_Gold_Challenge.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\06_09_Gold_Challenge.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\06_09_Gold_Challenge.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\06_09_Gold_Challenge.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\06_09_Gold_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\ref\06_09_Gold_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\bin\Debug\net5.0\06_09_Gold_Challenge.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\ref\06_09_Gold_Challenge.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\06_09_Gold_Challenge\obj\Debug\net5.0\06_09_Gold_Challenge.genruntimeconfig.cache
