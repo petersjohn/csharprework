@@ -1,0 +1,15 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\08_Numbers.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\08_Numbers.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\08_Numbers.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\08_Numbers.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\08_Numbers.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\ref\08_Numbers.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\bin\Debug\net5.0\08_Numbers.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\ref\08_Numbers.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\08_Numbers\obj\Debug\net5.0\08_Numbers.genruntimeconfig.cache
