@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.csprojAssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\04_Operators.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\04_Operators.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\04_Operators.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\04_Operators.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\04_Operators.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\ref\04_Operators.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\bin\Debug\net5.0\04_Operators.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\ref\04_Operators.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\04_Operators\obj\Debug\net5.0\04_Operators.genruntimeconfig.cache
