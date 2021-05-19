@@ -1,0 +1,15 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\07_conditionals_if_else.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\07_conditionals_if_else.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\07_conditionals_if_else.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\07_conditionals_if_else.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\07_conditionals_if_else.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\ref\07_conditionals_if_else.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\bin\Debug\net5.0\07_conditionals_if_else.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\ref\07_conditionals_if_else.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\csharprework\07_conditionals_if_else\obj\Debug\net5.0\07_conditionals_if_else.genruntimeconfig.cache
